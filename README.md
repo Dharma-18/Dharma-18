@@ -5,8 +5,11 @@ I'm a passionate Computer Science Engineering student, exploring the world of **
 I love building full‑stack applications, experimenting with mobile app design, and sharpening my skills in **DSA** and **system design**.
 
 - 🌱 Currently learning advanced **React.js** patterns and **Flutter UI/UX**.
+  
 - 💡 Interested in **AI‑driven applications**, scalable backend systems, and futuristic UI design.
+  
 - 🎯 Goal: To become a versatile developer who can bridge **frontend creativity** with **backend efficiency**.
+  
 - ⚡ Fun fact: I enjoy debugging more than coding — finding the bug feels like solving a puzzle!
 
 ---
