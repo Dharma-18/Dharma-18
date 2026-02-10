@@ -53,15 +53,14 @@ I love building full‑stack applications, experimenting with mobile app design,
 
 ## 📊 GitHub Status
 
-![Dharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharma-18&show_icons=true&theme=radical)
+| Stats | Streak |
+|-------|--------|
+| ![Dharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dharma-18&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharma-18&theme=radical) |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharma-18&layout=compact&theme=radical)
+| Languages | Trophies |
+|-----------|----------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharma-18&layout=compact&theme=radical) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dharma-18&theme=radical&margin-w=15&margin-h=15) |
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharma-18&theme=radical)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dharma-18&theme=radical&margin-w=15&margin-h=15)
-
----
 
 ## 🌐 Connect With Me 
 - [Email](mailto:lingamdharma714@gmail.com)  
