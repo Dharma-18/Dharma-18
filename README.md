@@ -5,7 +5,7 @@
 I'm a passionate Computer Science Engineering student, exploring the world of **software development** and **problem solving**.  
 I love building full‑stack applications, experimenting with mobile app design, and sharpening my skills in **DSA** and **system design**.
 
-- 🌱 Currently learning **Machine Learning ** and **Network Security **.
+- 🌱 Currently learning **Machine Learning ** and ** Cryptography ** and ** LLM **.
   
 - 💡 Interested in **AI‑driven applications**, scalable backend systems, and futuristic UI design.
   
